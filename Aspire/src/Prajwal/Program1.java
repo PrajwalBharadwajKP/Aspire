@@ -12,4 +12,7 @@ public class Program1 {
 	public void madhu() {
 		System.out.println("code by madhu");
 	}
+	public void v1() {
+		System.out.println("from Vinod");
+	}
 }
