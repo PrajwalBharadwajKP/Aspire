@@ -8,6 +8,8 @@ public class Program1 {
 		
 		//contribution has been made to the code 
 		System.out.println("contributed by Triulam R");
+		
+		System.out.println("code by thejas");
 	}
 	public void madhu() {
 		System.out.println("code by madhu");
