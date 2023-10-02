@@ -25,4 +25,5 @@ public class Program1 {
 			System.out.println("from Amruth");
 		
 	}
+	
 }
