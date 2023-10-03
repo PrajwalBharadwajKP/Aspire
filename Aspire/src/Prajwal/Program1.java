@@ -13,6 +13,7 @@ public class Program1 {
 		System.out.println("contributed by Triulam R");
 		
 		System.out.println("code by thejas");
+		
 	}
 	public void madhu() {
 		System.out.println("code by madhu");
@@ -25,5 +26,9 @@ public class Program1 {
 			System.out.println("from Amruth");
 		
 	}
+
 	
 }
+
+}
+
