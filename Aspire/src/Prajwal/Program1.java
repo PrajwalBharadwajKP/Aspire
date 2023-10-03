@@ -23,7 +23,12 @@ public class Program1 {
 
 		public void v2() {
 			System.out.println("from Ayyappa-Naga");
-
+			System.out.println("from Amruth");
 		
 	}
+
+	
 }
+
+}
+
